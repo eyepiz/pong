@@ -3,6 +3,8 @@
 #
 # This is the Makefile for Pong
 
+# This is a test
+
 # PP := gcc
 
 # INC := include
